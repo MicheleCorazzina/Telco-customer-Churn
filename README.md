@@ -4,7 +4,7 @@
 Un’azienda di telecomunicazioni che offre servizi di telefonia mobile e internet sta registrando un aumento del tasso di churn, ovvero della percentuale di clienti che abbandonano il servizio.  
 Il churn rappresenta un problema rilevante poiché l’acquisizione di nuovi clienti è generalmente più costosa rispetto alla retention di quelli esistenti.
 
-Il team marketing dispone di risorse limitate e non può contattare indiscriminatamente tutti i clienti. Diventa quindi necessario individuare in modo mirato i clienti più a rischio di abbandono, così da ottimizzare le azioni di retention e ridurre i costi operativi. 
+Il team marketing dispone di risorse limitate e non può contattare indiscriminatamente tutti i clienti. Diventa quindi necessario individuare in modo mirato i clienti più a rischio di abbandono, così da ottimizzare le azioni di retention e ridurre i costi operativi.
 
 ---
 
