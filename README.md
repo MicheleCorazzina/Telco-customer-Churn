@@ -89,6 +89,7 @@ Il modello di classificazione consente di stimare la probabilità di churn a liv
 - Confronto tra diversi modelli di classificazione mantenendo un focus sull’interpretabilità  
 - Valutazione dell’impatto economico delle strategie di retention basate sulle previsioni del modello  
 
+---
 
 ## Nota sull’utilizzo di strumenti di supporto
 
