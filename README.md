@@ -88,3 +88,16 @@ Il modello di classificazione consente di stimare la probabilità di churn a liv
 - Integrazione di dati temporali per una definizione più dinamica del churn  
 - Confronto tra diversi modelli di classificazione mantenendo un focus sull’interpretabilità  
 - Valutazione dell’impatto economico delle strategie di retention basate sulle previsioni del modello  
+
+
+## Nota sull’utilizzo di strumenti di supporto
+
+Nel corso del progetto sono stati utilizzati strumenti di intelligenza artificiale come supporto al processo di apprendimento, riflessione e strutturazione dell’analisi.
+
+In particolare, tali strumenti sono stati impiegati per:
+- chiarire concetti metodologici,
+- migliorare la formulazione dei testi descrittivi,
+- supportare l’organizzazione del progetto e delle sue sezioni.
+
+Le scelte analitiche, l’interpretazione dei risultati e le decisioni di modellazione sono state effettuate in modo consapevole e autonomo, con l’obiettivo di sviluppare un progetto coerente, comprensibile e difendibile in un contesto di business.
+
