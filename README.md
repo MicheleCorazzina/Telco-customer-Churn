@@ -154,5 +154,3 @@ In particolare, tali strumenti sono stati impiegati per:
 * supportare l’organizzazione del progetto e delle sue sezioni.
 
 Le scelte analitiche, l’interpretazione dei risultati e le decisioni di modellazione sono state effettuate in modo consapevole e autonomo, con l’obiettivo di sviluppare un progetto coerente, comprensibile e difendibile in un contesto di business.
-
----
