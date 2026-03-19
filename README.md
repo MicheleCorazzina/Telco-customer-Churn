@@ -148,7 +148,9 @@ Queste indicazioni devono essere considerate come ipotesi operative da validare 
 Nel corso del progetto sono stati utilizzati strumenti di intelligenza artificiale come supporto al processo di apprendimento, riflessione e strutturazione dell’analisi.
 
 In particolare, tali strumenti sono stati impiegati per:
+- chiarire concetti metodologici,
+- migliorare la formulazione dei testi descrittivi,
+- supportare l’organizzazione del progetto e delle sue sezioni.
 
-* chiarire concetti metodologici,
-* migliorare la formulazione dei testi descrittivi,
-* supportare l’organizzazione del progetto e delle sue sezioni.
+Le scelte analitiche, l’interpretazione dei risultati e le decisioni di modellazione sono state effettuate in modo consapevole e autonomo, con l’obiettivo di sviluppare un progetto coerente, comprensibile e difendibile in un contesto di business.
+
