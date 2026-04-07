@@ -28,3 +28,10 @@ Infine, l’analisi degli errori mostra che il modello tende a identificare come
 - incentivare la migrazione verso contratti a lungo termine, associati a una maggiore stabilità della clientela  
 
 - utilizzare il modello come strumento di supporto per identificare i clienti a rischio più evidenti, integrandolo con ulteriori analisi per i casi meno distinti
+
+## Limitations
+- il modello è stato sviluppato su un dataset specifico e potrebbe non generalizzare completamente a contesti differenti senza ulteriori validazioni  
+
+- la fase di validazione utilizza feature preprocessate prima della cross-validation, il che può introdurre una stima leggermente ottimistica delle performance  
+
+- il modello, pur interpretabile, è relativamente semplice e potrebbe non catturare relazioni più complesse tra le variabili
