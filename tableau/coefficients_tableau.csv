@@ -1,0 +1,21 @@
+feature,coefficient,direction
+tenure,-1.1544336019645944,Retention ↓
+Contract_Two year,-0.7755183646671727,Retention ↓
+MonthlyCharges,-0.6761135548583325,Retention ↓
+InternetService_DSL,-0.622465486155934,Retention ↓
+StreamingMovies_No internet service,-0.2754029743749664,Retention ↓
+StreamingTV_No internet service,-0.2754029743749664,Retention ↓
+DeviceProtection_No internet service,-0.2754029743749664,Retention ↓
+OnlineBackup_No internet service,-0.2754029743749664,Retention ↓
+OnlineSecurity_No internet service,-0.2754029743749664,Retention ↓
+InternetService_No,-0.2754029743749664,Retention ↓
+DeviceProtection_Yes,0.07419023405957254,Churn ↑
+MultipleLines_Yes,0.13284298164966418,Churn ↑
+TechSupport_No,0.16551920605296766,Churn ↑
+OnlineSecurity_No,0.19903042249670896,Churn ↑
+PaymentMethod_Electronic check,0.24027542341695424,Churn ↑
+StreamingTV_Yes,0.2621659294976062,Churn ↑
+StreamingMovies_Yes,0.2753924255133136,Churn ↑
+TotalCharges,0.4896980513087401,Churn ↑
+Contract_Month-to-month,0.6577131860472994,Churn ↑
+InternetService_Fiber optic,0.7079806152906247,Churn ↑
